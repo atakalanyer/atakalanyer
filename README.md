@@ -7,15 +7,24 @@
 - 🔭 I'm currently working on **Machine Learning, Data Science, and AI projects**
 - 🌱 I'm currently learning **Python, Machine Learning, Deep Learning**
 - 🧠 Interested in **Artificial Intelligence, Data Science, and Software Development**
-- 📊 Currently building my skills through hands-on projects and real-world datasets
+- 📊 Building my skills through hands-on projects and real-world datasets
 - 🎯 My goal is to develop intelligent applications and contribute to AI-driven technologies
 - 💬 Ask me about **Python, SQL, Data Analysis, and Machine Learning**
-- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/ata-kalanyer/) or atakalanyer852@gmal.com
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/ata-kalanyer/) or atakalanyer852@gmail.com
 
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,c,java,html,css,sql,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,aws,unity&perline=8" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,sklearn&perline=8" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
